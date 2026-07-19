@@ -18,8 +18,10 @@
 - Python: pandas, numpy, matplotlib, seaborn, scikit-learn
 - Text Mining: LDA, Topic Modeling
 - BI/Visualization: Tableau
-- SQL: SQLD 준비 중
 - AI Tools: ChatGPT, Claude
+
+## Certification
+- ADsP(데이터분석 준전문가)
 
 ## Projects
 
