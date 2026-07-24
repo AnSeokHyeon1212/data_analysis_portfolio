@@ -1,0 +1,10 @@
+stage,group,count,definition
+raw,all,2044347,Collected cumulative reviews
+language_filter,english,929086,English reviews after language screening
+analysis,final,269606,Reviews used in sentiment and topic analysis
+period,before,149912,Before 2025-07-17
+period,after,119694,After 2025-07-17
+sentiment,positive,195720,VADER compound >= 0.20
+sentiment,neutral,36318,-0.20 < VADER compound < 0.20
+sentiment,negative,37568,VADER compound <= -0.20
+

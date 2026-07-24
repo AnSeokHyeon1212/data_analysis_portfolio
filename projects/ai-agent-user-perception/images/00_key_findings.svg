@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="500" viewBox="0 0 1180 500" role="img" aria-labelledby="title desc">
+  <title id="title">Key negative topic changes after Agent release</title>
+  <desc id="desc">AI distrust and memory limitations increased by 0.009046, subscription cost and usage limits increased by 0.007083, and access and login issues decreased by 0.014432.</desc>
+  <rect width="1180" height="500" rx="24" fill="#F7FAFE"/>
+  <text x="60" y="64" fill="#0B1F3A" font-family="Arial, 'Malgun Gothic', sans-serif" font-size="29" font-weight="800">Negative Review Topics: After − Before</text>
+  <text x="60" y="99" fill="#52677F" font-family="Arial, 'Malgun Gothic', sans-serif" font-size="17">같은 LDA 토픽 공간에서 계산한 기간별 평균 토픽 확률의 차이</text>
+  <line x1="590" y1="136" x2="590" y2="431" stroke="#0B1F3A" stroke-width="3"/>
+  <g font-family="Arial, 'Malgun Gothic', sans-serif">
+    <text x="570" y="176" text-anchor="end" fill="#233B57" font-size="21" font-weight="700">AI 불신·메모리 한계</text>
+    <rect x="590" y="148" width="362" height="42" rx="7" fill="#0A66C2"/>
+    <text x="968" y="177" fill="#0B1F3A" font-size="22" font-weight="800">+0.009046</text>
+
+    <text x="570" y="268" text-anchor="end" fill="#233B57" font-size="21" font-weight="700">구독·비용·사용 제한</text>
+    <rect x="590" y="240" width="283" height="42" rx="7" fill="#2E86D1"/>
+    <text x="889" y="269" fill="#0B1F3A" font-size="22" font-weight="800">+0.007083</text>
+
+    <text x="570" y="360" text-anchor="end" fill="#233B57" font-size="21" font-weight="700">접근·로그인 문제</text>
+    <rect x="12" y="332" width="578" height="42" rx="7" fill="#8A4B45"/>
+    <text x="28" y="361" fill="#FFFFFF" font-size="22" font-weight="800">−0.014432</text>
+  </g>
+  <g font-family="Arial, 'Malgun Gothic', sans-serif" font-size="15" fill="#63778E">
+    <text x="12" y="416">−0.0144</text>
+    <text x="590" y="416" text-anchor="middle">0</text>
+    <text x="952" y="416" text-anchor="middle">+0.0090</text>
+  </g>
+  <rect x="60" y="448" width="12" height="12" rx="2" fill="#D4AF37"/>
+  <text x="82" y="459" fill="#52677F" font-family="Arial, 'Malgun Gothic', sans-serif" font-size="15">관찰적 전후 비교이며 Agent 출시의 인과효과를 의미하지 않음</text>
+</svg>

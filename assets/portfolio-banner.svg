@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">AN Seokhyeon Data Analysis Portfolio</title>
+  <desc id="desc">Mining insights from data and connecting them to better service decisions.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07162B"/>
+      <stop offset="0.55" stop-color="#0B2A52"/>
+      <stop offset="1" stop-color="#0A66C2"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F7D774"/>
+      <stop offset="1" stop-color="#D4AF37"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+  <g opacity="0.18" stroke="#75B9FF" fill="none">
+    <path d="M830 63 C900 20 976 124 1047 75 S1175 41 1245 100" stroke-width="2"/>
+    <path d="M760 294 C862 208 919 329 1018 239 S1160 225 1260 150" stroke-width="2"/>
+    <circle cx="875" cy="94" r="5" fill="#75B9FF"/>
+    <circle cx="1025" cy="239" r="7" fill="#75B9FF"/>
+    <circle cx="1178" cy="72" r="4" fill="#75B9FF"/>
+  </g>
+  <g transform="translate(914 111)">
+    <circle cx="95" cy="71" r="78" fill="#D4AF37" opacity="0.13" filter="url(#glow)"/>
+    <path d="M18 129 L18 91 L46 91 L46 129 Z M61 129 L61 59 L89 59 L89 129 Z M104 129 L104 30 L132 30 L132 129 Z M147 129 L147 2 L175 2 L175 129 Z" fill="url(#gold)"/>
+    <path d="M5 145 H190" stroke="#A9D4FF" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="175" cy="2" r="7" fill="#F7D774"/>
+  </g>
+  <text x="72" y="92" fill="#A9D4FF" font-family="Arial, 'Malgun Gothic', sans-serif" font-size="20" font-weight="700" letter-spacing="3">DATA ANALYSIS · AI SERVICE OPERATIONS</text>
+  <text x="72" y="164" fill="#FFFFFF" font-family="Arial, 'Malgun Gothic', sans-serif" font-size="50" font-weight="800">Mining Insights from Data</text>
+  <rect x="72" y="194" width="104" height="5" rx="2.5" fill="url(#gold)"/>
+  <text x="72" y="244" fill="#DDEEFF" font-family="Arial, 'Malgun Gothic', sans-serif" font-size="25">데이터 속에 숨은 가치를 찾아, 더 나은 서비스 의사결정으로 연결합니다.</text>
+  <text x="72" y="299" fill="#FFFFFF" font-family="Arial, 'Malgun Gothic', sans-serif" font-size="22" font-weight="700">AN SEOKHYEON</text>
+  <text x="256" y="299" fill="#8FC6FF" font-family="Arial, 'Malgun Gothic', sans-serif" font-size="19">Statistics · Product Analytics · Text Mining</text>
+</svg>
+
